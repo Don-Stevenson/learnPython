@@ -22,3 +22,7 @@ person = {"name": "Alice", "email": "alice@example.com"}
 
 print(person['name'])
 print(person)
+
+# making a set, an unordered list
+x = {1, 2, 3, 2, 1}
+print(x)
