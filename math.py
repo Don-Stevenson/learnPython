@@ -9,3 +9,6 @@ print(6/2)
 
 print(1/4)
 # Note this prints 0
+
+x = ["a", "b", "c"]
+print(len (x))
