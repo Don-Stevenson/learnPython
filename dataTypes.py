@@ -26,3 +26,4 @@ print(person)
 # making a set, an unordered list
 x = {1, 2, 3, 2, 1}
 print(x)
+#prints set([1,2,3])
